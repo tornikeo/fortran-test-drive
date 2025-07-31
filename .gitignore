@@ -35,3 +35,4 @@
 /build*/
 /_*/
 /docs*/
+.meson-subproject-wrap-hash.txt
